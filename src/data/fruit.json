@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "nom": "Pomme",
+    "calories": 95,
+    "glucides": 25,
+    "fibres": 4,
+    "vitamines": { "C": "8%" },
+    "mineraux": {
+      "potassium": "5%",
+      "sodium": "0%",
+      "magnésium": "2%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides", "fibres"],
+      "mineurs": ["protéines", "lipides"]
+    },
+    "saison": "Automne",
+    "disponibilite": "Mondiale",
+    "utilisations": ["tartes", "cidre", "compote"],
+    "image": "https://cdn.pixabay.com/photo/2016/01/05/13/58/apple-1122537_960_720.jpg"
+  },
+  {
+    "id": 2,
+    "nom": "Banane",
+    "calories": 105,
+    "glucides": 27,
+    "fibres": 3,
+    "vitamines": { "C": "14%", "B6": "20%" },
+    "mineraux": {
+      "potassium": "9%",
+      "sodium": "0%",
+      "magnésium": "8%",
+      "phosphore": "3%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "N/A",
+    "disponibilite": "Mondiale",
+    "utilisations": ["smoothies", "bananabread", "snacks"],
+    "image": "https://cdn.pixabay.com/photo/2015/03/30/12/43/bananas-698608_960_720.jpg"
+  },
+  {
+    "id": 3,
+    "nom": "Mongoustan",
+    "calories": 73,
+    "glucides": 18,
+    "fibres": 2,
+    "vitamines": { "C": "22%", "B6": "5%", "K": "2%" },
+    "mineraux": {
+      "potassium": "5%",
+      "sodium": "0%",
+      "magnésium": "3%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Été",
+    "disponibilite": "Régionale",
+    "utilisations": ["desserts", "smoothies", "snacks"],
+    "image": "https://cdn.pixabay.com/photo/2015/06/16/12/00/mangosteen-811154_960_720.jpg"
+  },
+  {
+    "id": 4,
+    "nom": "Fruit du dragon",
+    "calories": 60,
+    "glucides": 13,
+    "fibres": 1,
+    "vitamines": { "C": "33%", "B2": "5%", "B3": "4%" },
+    "mineraux": {
+      "potassium": "9%",
+      "sodium": "1%",
+      "magnésium": "4%",
+      "phosphore": "3%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Été",
+    "disponibilite": "Mondiale",
+    "utilisations": ["smoothies", "salades de fruits", "desserts"],
+    "image": "https://cdn.pixabay.com/photo/2016/04/23/17/06/and-helong-1347889_960_720.jpg"
+  },
+  {
+    "id": 5,
+    "nom": "Feijoa",
+    "calories": 55,
+    "glucides": 11,
+    "fibres": 5,
+    "vitamines": { "C": "33%", "B6": "5%", "E": "2%" },
+    "mineraux": {
+      "potassium": "6%",
+      "sodium": "0%",
+      "magnésium": "2%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Automne",
+    "disponibilite": "Régionale",
+    "utilisations": ["smoothies", "jams", "desserts"],
+    "image": "https://cdn.pixabay.com/photo/2018/04/11/08/07/feijoas-3309771_960_720.jpg"
+  },
+  {
+    "id": 6,
+    "nom": "Pepino",
+    "calories": 60,
+    "glucides": 14,
+    "fibres": 2,
+    "vitamines": { "C": "40%", "A": "10%", "B6": "6%" },
+    "mineraux": {
+      "potassium": "8%",
+      "sodium": "0%",
+      "magnésium": "3%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Été",
+    "disponibilite": "Régionale",
+    "utilisations": ["salades de fruits", "smoothies", "desserts"],
+    "image": "https://cdn.pixabay.com/photo/2018/11/11/06/10/fruit-3808105_960_720.jpg"
+  },
+  {
+    "id": 7,
+    "nom": "Cherimoya",
+    "calories": 150,
+    "glucides": 35,
+    "fibres": 5,
+    "vitamines": { "C": "25%", "B6": "20%", "A": "15%" },
+    "mineraux": {
+      "potassium": "20%",
+      "sodium": "0%",
+      "magnésium": "8%",
+      "phosphore": "6%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Hiver",
+    "disponibilite": "Régionale",
+    "utilisations": ["desserts", "smoothies", "jus"],
+    "image": "https://cdn.pixabay.com/photo/2017/08/22/09/36/cherimoya-fruit-2668293_960_720.jpg"
+  },
+  {
+    "id": 8,
+    "nom": "Physalis",
+    "calories": 46,
+    "glucides": 10,
+    "fibres": 2,
+    "vitamines": { "C": "12%", "A": "6%", "B6": "5%" },
+    "mineraux": {
+      "potassium": "9%",
+      "sodium": "0%",
+      "magnésium": "2%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Automne",
+    "disponibilite": "Régionale",
+    "utilisations": ["salades de fruits", "desserts", "confitures"],
+    "image": "https://cdn.pixabay.com/photo/2016/07/28/12/51/physalis-1547799_960_720.jpg"
+  },
+  {
+    "id": 9,
+    "nom": "Rambutan",
+    "calories": 70,
+    "glucides": 16,
+    "fibres": 1,
+    "vitamines": { "C": "20%", "B6": "5%" },
+    "mineraux": {
+      "potassium": "5%",
+      "sodium": "0%",
+      "magnésium": "2%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Été",
+    "disponibilite": "Locale",
+    "utilisations": ["fruits frais", "salades de fruits", "desserts"],
+    "image": "https://cdn.pixabay.com/photo/2017/11/20/05/37/food-2964491_960_720.jpg"
+  },
+  {
+    "id": 10,
+    "nom": "Tangelo",
+    "calories": 70,
+    "glucides": 17,
+    "fibres": 2,
+    "vitamines": { "C": "80%", "A": "10%" },
+    "mineraux": {
+      "potassium": "5%",
+      "sodium": "0%",
+      "magnésium": "2%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Hiver",
+    "disponibilite": "Locale",
+    "utilisations": ["fruits frais", "salades de fruits", "jus"],
+    "image": "https://cdn.pixabay.com/photo/2017/02/06/03/31/hawaii-2042057_960_720.jpg"
+  },
+
+  {
+    "id": 11,
+    "nom": "Mirabelle",
+    "calories": 50,
+    "glucides": 12,
+    "fibres": 1,
+    "vitamines": { "C": "6%", "A": "2%" },
+    "mineraux": {
+      "potassium": "3%",
+      "sodium": "0%",
+      "magnésium": "1%",
+      "calcium": "1%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["fibres", "protéines", "lipides"]
+    },
+    "saison": "Été",
+    "disponibilite": "Locale",
+    "utilisations": ["fruits frais", "confitures", "pâtisseries"],
+    "image": "https://cdn.pixabay.com/photo/2022/08/09/04/08/fruit-7374080_960_720.jpg"
+  },
+  {
+    "id": 12,
+    "nom": "Kiwi Or",
+    "calories": 61,
+    "glucides": 14,
+    "fibres": 2,
+    "vitamines": { "C": "240%", "K": "38%" },
+    "mineraux": {
+      "potassium": "7%",
+      "sodium": "0%",
+      "magnésium": "3%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Automne",
+    "disponibilite": "Locale",
+    "utilisations": ["fruits frais", "salades de fruits", "jus"],
+    "image": "https://cdn.pixabay.com/photo/2017/05/16/14/21/gold-kiwi-2317888_960_720.jpg"
+  },
+  {
+    "id": 13,
+    "nom": "Carambole",
+    "calories": 30,
+    "glucides": 7,
+    "fibres": 2,
+    "vitamines": { "C": "57%", "B5": "6%" },
+    "mineraux": {
+      "potassium": "5%",
+      "sodium": "0%",
+      "magnésium": "2%",
+      "phosphore": "2%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["protéines", "lipides", "fibres"]
+    },
+    "saison": "Été",
+    "disponibilite": "Locale",
+    "utilisations": ["fruits frais", "salades de fruits", "jus"],
+    "image": "https://cdn.pixabay.com/photo/2021/07/24/13/07/star-fruit-6489500_960_720.jpg"
+  },
+  {
+    "id": 14,
+    "nom": "Orange sanguine",
+    "calories": 70,
+    "glucides": 15,
+    "fibres": 3,
+    "vitamines": { "C": "130%", "A": "4%" },
+    "mineraux": {
+      "potassium": "6%",
+      "sodium": "0%",
+      "magnésium": "3%",
+      "calcium": "4%"
+    },
+    "composantsChimiques": {
+      "majeurs": ["eau", "glucides"],
+      "mineurs": ["fibres", "protéines", "lipides"]
+    },
+    "saison": "Hiver",
+    "disponibilite": "Locale",
+    "utilisations": ["jus", "fruits frais", "salades de fruits"],
+    "image": "https://cdn.pixabay.com/photo/2022/02/25/08/13/blood-oranges-7033738_960_720.jpg"
+  }
+]
